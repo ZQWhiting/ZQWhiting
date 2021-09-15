@@ -1,6 +1,6 @@
 # Hello,
 
-I am Zachary Q. Whiting, full-stack web developer specializing in the MERN stack. I have 1000+ hours of coding experience across all stages of web development, an attention to detail, and a proven ability to quickly learn new programming languages and APIs. I am currently seeking a full-time 100%-remote position, but I am also open to other forms of remote work.
+I am Zachary Q. Whiting, full-stack web developer specializing in the MERN stack. I have 1000+ hours of coding experience across all stages of web development, an attention to detail, and a proven ability to quickly learn new programming languages and APIs. I am currently seeking a full-time 100%-remote position, but I am also open to other forms of remote work or a role centered in Rexburg or the Idaho Falls area of Idaho.
 
 I've both created and collaborated on over thirty web programs which include everything from pure html websites to highly scalable websites using template engines, mostly React. I've trained to use many different methodologies including Object Oriented Programming, Functional Programming, Test Driven Development, Mobile-First Responsiveness, Representational State Transfer, and Agile Development, and I've used these methods to create PWAs, CMS blogs, e-commerce sites, search engines, APIs, file generators, and more.
 
